@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\MoS talet\bin\Debug\net8.0\MoS talet.exe
+D:\Programmering\Programmering\MoS talet\bin\Debug\net8.0\MoS talet.deps.json
+D:\Programmering\Programmering\MoS talet\bin\Debug\net8.0\MoS talet.runtimeconfig.json
+D:\Programmering\Programmering\MoS talet\bin\Debug\net8.0\MoS talet.dll
+D:\Programmering\Programmering\MoS talet\bin\Debug\net8.0\MoS talet.pdb
+D:\Programmering\Programmering\MoS talet\obj\Debug\net8.0\MoS talet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\MoS talet\obj\Debug\net8.0\MoS talet.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\MoS talet\obj\Debug\net8.0\MoS talet.AssemblyInfo.cs
+D:\Programmering\Programmering\MoS talet\obj\Debug\net8.0\MoS talet.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\MoS talet\obj\Debug\net8.0\MoS talet.dll
+D:\Programmering\Programmering\MoS talet\obj\Debug\net8.0\refint\MoS talet.dll
+D:\Programmering\Programmering\MoS talet\obj\Debug\net8.0\MoS talet.pdb
+D:\Programmering\Programmering\MoS talet\obj\Debug\net8.0\MoS talet.genruntimeconfig.cache
+D:\Programmering\Programmering\MoS talet\obj\Debug\net8.0\ref\MoS talet.dll
